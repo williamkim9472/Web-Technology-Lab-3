@@ -1,0 +1,12 @@
+.selected {
+    background: yellow;
+}
+
+.selectCursor {
+    cursor: pointer;
+    display: inline-block;
+}
+
+ul {
+    white-space: nowrap;
+}
